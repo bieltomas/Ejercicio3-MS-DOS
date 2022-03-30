@@ -45,5 +45,29 @@
 
 ![image](https://user-images.githubusercontent.com/91564872/160500864-aa3980f0-d9c6-4241-a72f-7006a23712d3.png)
 
+## Task 3
+
+`New-Item -Path C:\ -Name Expo -ItemType Directory`
+
+![image](https://user-images.githubusercontent.com/91564872/160867248-ffcd2f21-59d1-48d5-bdab-51be2c716e09.png)
+
+
+`New-Item -Path C:\Sudoblark -Name PowerShell -ItemType Directory`
+
+![image](https://user-images.githubusercontent.com/91564872/160867599-4969215d-93e2-45f4-94b8-173b4a328c65.png)
+
+
+`New-Item -Path C:\Sudoblark\PowerShell -Name Workshop1 -ItemType Directory`
+
+
+
+`New-Item -Path C:\Sudoblark\PowerShell\Workshop1 -Name bclark -ItemType Directory`
+
+![image](https://user-images.githubusercontent.com/91564872/160867748-cf344078-9cf7-4d7e-a055-1aa638e157bd.png)
+
+`New-Item -Path C:\Sudoblark\PowerShell\Workshop1\bclark\ -Name Testfile.txt -ItemType File`
+
+![image](https://user-images.githubusercontent.com/91564872/160868444-11647ae7-52b6-46c2-90e6-67a50dab5d69.png)
+
 
 
