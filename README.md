@@ -132,4 +132,9 @@
 Con `Get-AuthenticodeSignature | Out-GridView` y `New-Item | Out-GridView` nos pide un path en concreto
 
 
+## Task 10
+
+[Link a la documentación de PowerShell](https://docs.microsoft.com/es-es/powershell/)
+
+![image](https://user-images.githubusercontent.com/91564872/160872025-25b10ba8-91a3-43b2-8e2c-71b7196784ee.png)
 
