@@ -67,7 +67,15 @@
 
 `New-Item -Path C:\Sudoblark\PowerShell\Workshop1\bclark\ -Name Testfile.txt -ItemType File`
 
-![image](https://user-images.githubusercontent.com/91564872/160868444-11647ae7-52b6-46c2-90e6-67a50dab5d69.png)
+![image](https://user-images.githubusercontent.com/91564872/160869274-488f7523-6b75-4971-9596-46d4ac480994.png)
 
+
+## Task 4
+
+`Add-Content -Path C:\Sudoblark\PowerShell\Workshop1\bclark\Testfile.txt -Value True`
+`Add-Content -Path C:\Sudoblark\PowerShell\Workshop1\bclark\Testfile.txt -Value "Hello"`
+`Add-Content -Path C:\Sudoblark\PowerShell\Workshop1\bclark\Testfile.txt -Value 42`
+
+![image](https://user-images.githubusercontent.com/91564872/160869375-73ad6719-5790-4d24-8b54-d629b5b3eae7.png)
 
 
