@@ -78,4 +78,16 @@
 
 ![image](https://user-images.githubusercontent.com/91564872/160869375-73ad6719-5790-4d24-8b54-d629b5b3eae7.png)
 
+## Task 5
+
+`Get-Content -Path C:\Sudoblark\PowerShell\Workshop1\bclark\Testfile.txt | Get-Member`
+
+![image](https://user-images.githubusercontent.com/91564872/160869682-4a18fe5f-5690-4944-af9d-7150f8147de5.png)
+
+
+## Task 6
+
+`Set-Content -Path C:\Sudoblark\PowerShell\Workshop1\bclark\Testfile.txt -Value "Boooooo"`
+
+![image](https://user-images.githubusercontent.com/91564872/160870104-457ce31d-30b9-4cab-be4e-9fea0f931924.png)
 
