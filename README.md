@@ -91,3 +91,9 @@
 
 ![image](https://user-images.githubusercontent.com/91564872/160870104-457ce31d-30b9-4cab-be4e-9fea0f931924.png)
 
+## Task 7
+
+`Get-Service | Format-List`
+
+![image](https://user-images.githubusercontent.com/91564872/160870334-6dcf5511-29e3-430f-8cfb-ce0ca33270ab.png)
+
