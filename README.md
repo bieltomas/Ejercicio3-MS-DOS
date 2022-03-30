@@ -97,3 +97,39 @@
 
 ![image](https://user-images.githubusercontent.com/91564872/160870334-6dcf5511-29e3-430f-8cfb-ce0ca33270ab.png)
 
+## Task 8
+
+`Get-Command | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160870597-4720b598-21b7-4f3d-a19e-9d46c9fdfa9e.png)
+
+## Task 9
+
+`Get-Help | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160871054-01d3a8cf-5a57-4794-a70f-912dd40c6819.png)
+
+
+`New-Item | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160871452-a494de1c-c08f-43b4-b98b-86dad669b4fd.png)
+
+
+`Get-Alias | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160871161-5c9e305f-fa4e-4f1b-8382-c04afe3ee1f7.png)
+
+
+`Get-AuthenticodeSignature | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160871560-1e6ae0f1-4432-4018-b774-50bd6744287e.png)
+
+
+`Get-ControlPanelItem | Out-GridView`
+
+![image](https://user-images.githubusercontent.com/91564872/160871288-2336afef-6b4d-44b7-9185-052877865f5d.png)
+
+Con `Get-AuthenticodeSignature | Out-GridView` y `New-Item | Out-GridView` nos pide un path en concreto
+
+
+
